@@ -131,5 +131,5 @@ SanjaiBabu P
 
 Aspiring Data Analyst skilled in Python, SQL, MySQL, Power BI, and Data Visualization.
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/Sanjai-Babu
 LinkedIn: https://www.linkedin.com/in/sanjai-babu/
